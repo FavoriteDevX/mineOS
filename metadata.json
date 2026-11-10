@@ -1,0 +1,6 @@
+{
+  "name": "minecraftOS",
+  "description": "A fully functional web operating system with the authentic look and feel of Minecraft, featuring macOS-inspired parody apps, a hotbar dock, and retro GUI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
